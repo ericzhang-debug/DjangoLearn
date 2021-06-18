@@ -1,4 +1,9 @@
-# 路由基础结构
+<!-- 
+@Author : Eric Zhang
+@CreateDate : 2021-6-18
+@Editor : Visual Studio Code
+ -->
+ # 路由基础结构
 项目同名文件夹下 ```urls.py```
 
 ```urlpatterns```中插入```path()```
