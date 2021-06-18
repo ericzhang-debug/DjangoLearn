@@ -4,7 +4,7 @@
 @Editor : Visual Studio Code
  -->
  # 视图函数
- 接受HttpRequest对象，通过HttpResponse对象返回响应的函数
+ 接受HttpRequest对象，通过HttpResponse对象返回响应的函数，主要处理接受来的请求
  ```py
  from django.http import HttpResponse
 
