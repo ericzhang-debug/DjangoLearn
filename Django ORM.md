@@ -22,7 +22,7 @@ models.py
 - 对应varchar
 - 必须制定最大长度
 #### IntegerField()
-- 对应int
+- 对应tinyint
 #### EmailField()
 - 对应varchar 
 #### DateField()
